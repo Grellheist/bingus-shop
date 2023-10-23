@@ -8,3 +8,4 @@ doing a bunch of smaller projects for now.
 
 (Probably gonna need a rebrand in the future but hey I like bingus!)
 (but i like her more)
+(but she doesn't like me anymore)
