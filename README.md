@@ -6,4 +6,3 @@ I'm kinda tired of doing big projects, they usually take way too long, and with
 my busy schedule what ends up happening is I grow tired of them. So I will be
 doing a bunch of smaller projects for now.
 
-I was gonna finish this today but I just can't  rn. Tomorrow for sure (clueless).
