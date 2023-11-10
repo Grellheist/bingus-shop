@@ -1,3 +1,5 @@
+import { PriceCard } from '@/components/PriceCard'
+
 export default function Home() {
     return (
         <>
