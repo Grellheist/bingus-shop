@@ -12,6 +12,7 @@ export default function Home() {
             </section>
             <section id="about" className="flex flex-col items-center gap-12 p-12">
                 <h1 className="text-4xl font-bold">About bingus</h1>
+                <PriceCard />
 
             </section>
             <section id="contact" className="flex flex-col items-center gap-12 p-12">
