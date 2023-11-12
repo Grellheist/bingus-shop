@@ -1,4 +1,5 @@
 import { PriceCard } from '@/components/PriceCard'
+// colors: #8ECAE6, #219EBC, #023047, #FFB703, #FB8500
 
 export default function Home() {
     return (
